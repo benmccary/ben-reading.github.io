@@ -3,8 +3,8 @@ email: benmccary@mailinator.com
 description: > # this means to ignore newlines until "baseurl:"
  I review books I listen to while waiting in traffic.
 permalink: ':title/'
-baseurl: "/ben-reading" # the subpath of your site, e.g. /blog
-url: "http://benmccary.github.io/benreading.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://benmccary.github.io/benreading.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Ben McCary # add your name
