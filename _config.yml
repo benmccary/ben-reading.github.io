@@ -1,0 +1,52 @@
+title: Ben Reading
+email: benmccary@mailinator.com
+description: > # this means to ignore newlines until "baseurl:"
+ I review books I listen to while waiting in traffic.
+permalink: ':title/'
+baseurl: "/ben-reading" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+author: Ben McCary # add your name
+author-pic: ben-face.png
+about-author: >
+  I'm Ben. I work in Seattle, but live outside of it...I commute a lot. Basically,
+  that means that I only get a few hours a day at home and have no time for life.
+  Like most people like me, I listen to audiobooks.  Over the years, I've come to
+  love them. So much so I can't get anyone to listen to me talk about them. So, I'm
+  making a blog to talk about them so other commuters can find some good things to
+  waste away in traffic to!
+
+# Contact links
+email: benmccary@mailinator.com # Add your Email address
+phone: # Add your Phone number
+website: # Add your website, do not add http://
+linkedin: https://www.linkedin.com/in/ben-mccary-47651189/ # Add your Linkedin handle
+github: benmccary # Add your Github handle
+twitter: '@benmccary' # Add your Twitter handle
+facebook: https://www.facebook.com/ben.mccary.9 # Add your Facebook handle
+instagram: # Add your Instagram handle
+pinterest: # Add your Pinterest handle
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: ben-reading # Add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 10
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

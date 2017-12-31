@@ -1,0 +1,46 @@
+---
+layout: post
+title:  Annihilation, Jeff VanderMeer
+date:   2017-12-28 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: post-1.jpg # Add image post (optional)
+tags: [Scifi, Biopunk]
+author: Ben McCary # Add name author (optional)
+---
+# Score: 8
+
+## Spoilers? Nope.
+
+Annihilation by Jeff VanderMeer is a fantastic read, and I would recommend it to anyone.  I am relatively new to the bio-punk genre, and I'm not even sure if this sits squarely in it, but I've been loving it. And not just for the genre, the book itself was suspenseful journey into...well, it was definitely something, though I have no idea what.   Let's say this, there's a creepy freshwater dolphin, a mysterious swamp monster who moans in the night, and a secret government agency trying to cover the whole thing up.  
+
+I don't usually go in for mystery thrillers, and while this one is creepy at times, it's definitely something different altogether. It's weird, mysterious, and gives a sense of ominous doom that makes it hard to walk away from. It also left me thinking after I was done. A total win in my book. (Full disclosure, I just realized that they're making this into a movie in 2018 as I was writing this post so, now I feel kind of silly reviewing something that a lot of people may actually watch.)
+
+
+> I've always had a soft spot for a strong stoic female lead. And who wouldn't want to read about a creepy person-eyed dolphin?!
+
+So let's start of with the basic premise: there is a mysterious Area, aptly named Area X, where a similarly mysterious government agency called the Southern Reach send expeditions from which no one returns...except those who do! That's right! Sometimes, people come back from this secret Area X, but when they do, they're changed. They don't remember anything, they're lucid, but never really able to engage with the normal world.  For some reason, people keep going into Area X to plumb it's depths, but to no avail. The area is transitioning into some other type of ecosystem, but no one knows what - only that it's expanding...
+
+The story follows the journey of an all female expedition, made up of a Psychologist, an Anthropologist, a Surveyor, a Linguist, and a Biologist. Our story follows the Biologist and her observations of the dangerous and mysterious world of Area X.  And for good measure, there's dolphin with the eyes of a human. I've always had a soft spot for a strong stoic female lead. And who wouldn't want to read about a creepy person-eyed dolphin?!
+
+The story follows the Biologist as she treks through Area X, all the while recalling the life before hand that brought her there. It speaks of her fascination with wilderness, as well as her frustration with the modern, mundane world of civilization. The descriptions of Area X are visceral depictions of a gray and brown wintry marshland. In it, everything seems as it should be on it's surface, but it's permeated by a profound wrongness that's hard to describe. VanderMeer does so by explaining the different character's discomfort with their surroundings. On the other hand, as the Biologist explains her back story, the scenes seem to be painted in a sepia-toned haze. she's had to experience wilderness as it pops up in the interstices of civilization, observing the wonder of nature small havens of quickly disappearing wild. In reality, the whole story only takes place in a few different locations, but they are all very sharply divided: mundane civilization, and majestic nature as it crops up in the interstices of civilization.
+
+One of the most fascinating aspects of the book is simply how odd the Biologist is. It was actually somewhat offputting as I read. For one part, since she was so unengaged with the rest of the world, she was hard to relate to, even to me, a pretty staunch introvert with mild to medium social anxiety.  VanderMeer tries to handle this by filling in the main characters with back story to explain any social awkwardness. For example, the Psychologist is shown to be lacking in confidence because of the pressure of her leadership role. With that said, these back stories are largely lacking. The Biologist describes a breakdown in a relationship because "he's gregarious and I"m not". That felt like glossing over what turns out to be a pretty central theme in as the story develops.  
+
+![Annihilation Map]({{site.baseurl}}/assets/img/annihilation_map.jpg)
+
+Similarly, one character is haunted by dreams for most of his life, only to realize that the dreams were scenes from a movie and not to be feared. It was a pretty simple conclusion to what would, in reality, be an extremely tragic childhood. That flatness of characters and simple glossing over of facts was beneficial because it added to the mystery of the story, but it felt more like shorthand than actual intentional plot. It was as if VanderMeer is saying, "just trust me, these people don't get along", or "I know there's a plot hole later on, so I'm going to add a random piece of back story here." It wasn't bad, but I often found myself just needing to take characters at face value instead of really grocking with their motivations and actions.
+
+
+With that said, the basic premise was enough to make me hooked. Like I said, not mystery thriller feel of it isn't the type of story I'd typically be interested in (I'm a wimp so I'll probably hate the movie). But that's really not what did it for me. What caught me was the fact that the concepts the book explores are actually scary in real life.  I am scared of how human actions are affecting the environment. The very premise of the Ben Reading blog is that I commute a lot and listen to a lot of audiobooks! It really hits close to home for me because - sorry for the tangent here - I work in a part of Seattle that's really hard to get to via public transit. Taking the bus would add at least an hour and a half to my already 2.5 hour daily commuting.  So every day, I sit there spewing poison into the environment because I can't find a better way to get to work!  Its crazy.
+
+Reading a book where nature is truly uncontrollable reminds me that nature is...truly uncontrollable. The story isn't exactly terrifying, and as far as being a mystery thriller, it falls flat in a lot of ways. But in engaging with a real fear that so many of us hold, it is insightful and...down right creepy. So often, I rationalize my own life decisions saying, it's out of my control, or we'll have to wait till another generation gets public transit figured out. It's easy to just pawn the problem off on a far off generation to let them deal with, but consequences will come eventually.  There's even a moment in the story where one of the characters ponders whether it would be better to just leave the problem of Area X for a future generation! In the book, a theory develops that Area X's danger ebbs and flows in cycles which to me was reminiscent of so many uncontrollable natural phenomena - hurricane season, tidal rise, etc.
+
+> Reading a book where nature is truly uncontrollable reminds me that nature is...truly uncontrollable. In engaging with a real fear that so many of us hold, it is insightful and…down right creepy
+
+That in and of it self is an interesting take on scifi, but VanderMeer's execution is what is so fantastic about the book. Part of what makes the tension so palpable is in the imagery and general tone given to each environment the Biologist describes.  For example, those sublime moments of wilderness that the Biologist cherishes are wrought in full color, but always dark, gloomy, and filled with unctuous decay. It's as if wilderness is relegated to the places humans forgot. And her melancholy describes what a tragedy this is; she views herself as an oddity for even noticing.  Yet 'civilization' is depicted in a sepia-toned tableau of proper social settings. She's out of place, but also the people seem so unaware that their lives mean nothing. For the Biologist, 'civilization' died to her long before she chose to enter Area X, probably never to return.
+
+That, more than anything, strikes me as an amazing philosophical commentary: in the world of Area X and the Southern Reach, civilization is a thing of the past; only wilderness, uncontrollable, wild, and dangerous remain.  And it's only in Area X that this reality is made painfully clear. The transformations that happen to the environment are only a glimpse of the transformations that society would have to undertake where they to keep from disappearing. And if nature always wins, what possible fate is left to the rest of us?
+
+Annihilation doesn't give us an answer to that. In fact, it asks us whether that would actually be a bad thing.  Personally, I loved it. I loved how it made me think, how it made me worried, and the world was so real to me as I was in it. It was a sad, depressing world, but it wasn't so far different from 2.5 hours a day stuck in a car, except for the mutant dolphins and swamp monsters.  
+
+Recommendation: read it, but only if you're ok with not liking the movie that much. The book will be better. At least you'll be able to tell your friends that you liked the book more than the movie.
