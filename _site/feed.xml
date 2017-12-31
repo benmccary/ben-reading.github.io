@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <generator uri="http://jekyllrb.com" version="3.0.1">Jekyll</generator>
-<link href="/ben-reading/feed.xml" rel="self" type="application/atom+xml" />
-<link href="/ben-reading/" rel="alternate" type="text/html" />
-<updated>2017-12-31T00:43:17-08:00</updated>
-<id>/ben-reading/</id>
+<link href="http://benmccary.github.io/benreading.github.io/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://benmccary.github.io/benreading.github.io/" rel="alternate" type="text/html" />
+<updated>2017-12-31T01:23:13-08:00</updated>
+<id>http://benmccary.github.io/benreading.github.io/</id>
 <subtitle>I review books I listen to while waiting in traffic.
 </subtitle>
 <author>
@@ -12,11 +12,11 @@
 </author>
 <entry>
 <title>Annihilation, Jeff VanderMeer</title>
-<link href="/ben-reading/annihilation/" rel="alternate" type="text/html" title="Annihilation, Jeff VanderMeer" />
+<link href="http://benmccary.github.io/benreading.github.io/annihilation/" rel="alternate" type="text/html" title="Annihilation, Jeff VanderMeer" />
 <published>2017-12-28T02:32:20-08:00</published>
 <updated>2017-12-28T02:32:20-08:00</updated>
-<id>/ben-reading/annihilation</id>
-<content type="html" xml:base="/ben-reading/annihilation/">&lt;h1 id=&quot;score-8&quot;&gt;Score: 8&lt;/h1&gt;
+<id>http://benmccary.github.io/benreading.github.io/annihilation</id>
+<content type="html" xml:base="http://benmccary.github.io/benreading.github.io/annihilation/">&lt;h1 id=&quot;score-8&quot;&gt;Score: 8&lt;/h1&gt;
 
 &lt;h2 id=&quot;spoilers-nope&quot;&gt;Spoilers? Nope.&lt;/h2&gt;
 
@@ -65,11 +65,11 @@
 </entry>
 <entry>
 <title>Three Body Problem, Liu Cixin</title>
-<link href="/ben-reading/three-body-problem/" rel="alternate" type="text/html" title="Three Body Problem, Liu Cixin" />
+<link href="http://benmccary.github.io/benreading.github.io/three-body-problem/" rel="alternate" type="text/html" title="Three Body Problem, Liu Cixin" />
 <published>2017-12-19T02:32:20-08:00</published>
 <updated>2017-12-19T02:32:20-08:00</updated>
-<id>/ben-reading/three-body-problem</id>
-<content type="html" xml:base="/ben-reading/three-body-problem/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<id>http://benmccary.github.io/benreading.github.io/three-body-problem</id>
+<content type="html" xml:base="http://benmccary.github.io/benreading.github.io/three-body-problem/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -92,11 +92,11 @@ print_hi(‘Tom’)
 </entry>
 <entry>
 <title>Stranger in a Strange Land, Robert Heinline</title>
-<link href="/ben-reading/stranger-in-a-strange-land/" rel="alternate" type="text/html" title="Stranger in a Strange Land, Robert Heinline" />
+<link href="http://benmccary.github.io/benreading.github.io/stranger-in-a-strange-land/" rel="alternate" type="text/html" title="Stranger in a Strange Land, Robert Heinline" />
 <published>2017-12-03T02:32:20-08:00</published>
 <updated>2017-12-03T02:32:20-08:00</updated>
-<id>/ben-reading/stranger-in-a-strange-land</id>
-<content type="html" xml:base="/ben-reading/stranger-in-a-strange-land/">&lt;h1 id=&quot;score-6&quot;&gt;Score: 6&lt;/h1&gt;
+<id>http://benmccary.github.io/benreading.github.io/stranger-in-a-strange-land</id>
+<content type="html" xml:base="http://benmccary.github.io/benreading.github.io/stranger-in-a-strange-land/">&lt;h1 id=&quot;score-6&quot;&gt;Score: 6&lt;/h1&gt;
 
 &lt;h2 id=&quot;spoilers-yeah&quot;&gt;Spoilers? Yeah.&lt;/h2&gt;
 
@@ -145,11 +145,11 @@ print_hi(‘Tom’)
 </entry>
 <entry>
 <title>Waking Gods, Sylvain Neuvel</title>
-<link href="/ben-reading/waking-gods/" rel="alternate" type="text/html" title="Waking Gods, Sylvain Neuvel" />
+<link href="http://benmccary.github.io/benreading.github.io/waking-gods/" rel="alternate" type="text/html" title="Waking Gods, Sylvain Neuvel" />
 <published>2017-11-17T02:32:20-08:00</published>
 <updated>2017-11-17T02:32:20-08:00</updated>
-<id>/ben-reading/waking-gods</id>
-<content type="html" xml:base="/ben-reading/waking-gods/">&lt;h1 id=&quot;score-5&quot;&gt;Score: 5&lt;/h1&gt;
+<id>http://benmccary.github.io/benreading.github.io/waking-gods</id>
+<content type="html" xml:base="http://benmccary.github.io/benreading.github.io/waking-gods/">&lt;h1 id=&quot;score-5&quot;&gt;Score: 5&lt;/h1&gt;
 
 &lt;h2 id=&quot;spoilers-why-not&quot;&gt;Spoilers: Why not?&lt;/h2&gt;
 
@@ -176,11 +176,11 @@ print_hi(‘Tom’)
 </entry>
 <entry>
 <title>Sleeping Giants, Sylvain Neuvel</title>
-<link href="/ben-reading/sleeping-giants/" rel="alternate" type="text/html" title="Sleeping Giants, Sylvain Neuvel" />
+<link href="http://benmccary.github.io/benreading.github.io/sleeping-giants/" rel="alternate" type="text/html" title="Sleeping Giants, Sylvain Neuvel" />
 <published>2017-11-02T03:32:20-07:00</published>
 <updated>2017-11-02T03:32:20-07:00</updated>
-<id>/ben-reading/sleeping-giants</id>
-<content type="html" xml:base="/ben-reading/sleeping-giants/">&lt;h1 id=&quot;score-5&quot;&gt;Score: 5&lt;/h1&gt;
+<id>http://benmccary.github.io/benreading.github.io/sleeping-giants</id>
+<content type="html" xml:base="http://benmccary.github.io/benreading.github.io/sleeping-giants/">&lt;h1 id=&quot;score-5&quot;&gt;Score: 5&lt;/h1&gt;
 
 &lt;h2 id=&quot;spoilers-yeah&quot;&gt;Spoilers? Yeah.&lt;/h2&gt;
 </content>
@@ -191,11 +191,11 @@ print_hi(‘Tom’)
 </entry>
 <entry>
 <title>Saturn Run, John Sandford</title>
-<link href="/ben-reading/placeholder2/" rel="alternate" type="text/html" title="Saturn Run, John Sandford" />
+<link href="http://benmccary.github.io/benreading.github.io/placeholder2/" rel="alternate" type="text/html" title="Saturn Run, John Sandford" />
 <published>2017-10-20T03:32:20-07:00</published>
 <updated>2017-10-20T03:32:20-07:00</updated>
-<id>/ben-reading/placeholder2</id>
-<content type="html" xml:base="/ben-reading/placeholder2/">&lt;h1 id=&quot;score-6&quot;&gt;Score: 6&lt;/h1&gt;
+<id>http://benmccary.github.io/benreading.github.io/placeholder2</id>
+<content type="html" xml:base="http://benmccary.github.io/benreading.github.io/placeholder2/">&lt;h1 id=&quot;score-6&quot;&gt;Score: 6&lt;/h1&gt;
 
 &lt;h2 id=&quot;spoilers-not-really&quot;&gt;Spoilers? Not really.&lt;/h2&gt;
 </content>
