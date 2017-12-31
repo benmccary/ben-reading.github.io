@@ -4,7 +4,7 @@ title:  Annihilation, Jeff VanderMeer
 date:   2017-12-28 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: post-1.jpg # Add image post (optional)
-tags: [Scifi, Biopunk]
+tags: [Scifi, Biopunk, Jeff VanderMeer, Score 8]
 author: Ben McCary # Add name author (optional)
 ---
 # Score: 8
