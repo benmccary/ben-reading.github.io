@@ -8,13 +8,13 @@ tags: [scifi, Liu Cixin]
 author: # Add name author (optional)
 ---
 
-# Score 7
+# Score 6
 
 ## Spoilers? Minor spoilers
 
-Three Body Problem was one of the weirder books I've read in a while, but it turned out to be a pretty good read. Three Body Problem is set in China and occurs mostly in the present day, though the back story stretches back to the Communist Revolution in the late 50's and early 60's. It begins with the story of a young girl whose Bourgeoisie parents and mentors are brutally tortured and killed in the Revolution, but she is able to escape to one of the last bastions of academic research: a military research facility in the Kunan mountains.  At the start of the book, this all seems to be the main thread of the story, but it turns out to simply be back story for the real, present day story.
+Three Body Problem was one of the weirder books I've read in a while, but it turned out to be a pretty good read. Three Body Problem is set in China and occurs mostly in the present day, though the back story stretches back to the Communist Revolution in the late 50's and early 60's. It begins with the story of a young girl whose Bourgeoisie parents and mentors are brutally tortured and killed in the Revolution, but she is able to escape to one of the last bastions of academic research: a military research facility in a remote mountain range.  At the start of the book, this all seems to be the main thread of the story, but it turns out to simply be back story for the real, present day story.
 
-This part of Three Body Problem follows Wang Miao, an applied physicist working with nano-technologies. Through a series of seemingly miraculous events, Wang is conscripted into a secret government taskforce investigating a secret society of academics called the Three Body Society. While on this taskforce he discovers that the society is actually part of an elaborate plot to invite a refugee alien force to come colonize and conquer Earth.
+This part of Three Body Problem follows Wang Miao, an applied physicist working with nano-technologies. Through a series of seemingly miraculous events, Wang is conscripted into a secret government task-force investigating a secret society of academics called the Three Body Society. While on this task-force he discovers that the society is actually part of an elaborate plot to invite a refugee alien force to come colonize and conquer Earth.
 
 > As I was reading, I constantly found myself asking, "is this a cultural thing, or just a convenient shorthand for the plot?"  I still have no idea, but that was part of the fun for me.
 
@@ -30,6 +30,6 @@ Another reason why I like this books - and I'm outing myself a bit hear - is tha
 
 It's not every day that a book makes me think of math, or that math makes me feel like I can relate to scifi better. Honestly, I'd probably have rated this story lower if I wasn't literally doing linear algebra homework in between listening to the story.
 
-The I rated this book as a 7 because, while it was a bit boring at the start, it was intriguing on so many levels.  I was facinated by reading something Chinese for the first time. I was facinated by the physics and math involved. I liked the characters, and by the time the story was done, I was really curious what would happen next. The characters were a bit hard for me to relate to, the conflict was coherent and complex but also a bit odd and sort of difficult to relate to.  I liked that aspect. I liked reading it and thinking, "why in the world would people act like this?"  
+The I rated this book as a 6 because, while it was a bit boring at the start, it was intriguing on so many levels.  I was fascinated by reading something Chinese for the first time. I was fascinated by the physics and math involved. I liked the characters, and by the time the story was done, I was really curious what would happen next. The characters were a bit hard for me to relate to, the conflict was coherent and complex but also a bit odd and sort of difficult to relate to.  I liked that aspect. I liked reading it and thinking, "why in the world would people act like this?"  
 
 ### Recommendation: read it. It's worth your time. Particularly if you like reading stories that stretch your perspective.  
