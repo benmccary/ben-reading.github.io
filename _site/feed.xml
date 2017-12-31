@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<generator uri="http://jekyllrb.com" version="3.0.1">Jekyll</generator>
-<link href="http://benmccary.github.io/benreading.github.io/feed.xml" rel="self" type="application/atom+xml" />
-<link href="http://benmccary.github.io/benreading.github.io/" rel="alternate" type="text/html" />
-<updated>2017-12-31T01:23:13-08:00</updated>
-<id>http://benmccary.github.io/benreading.github.io/</id>
+<generator uri="http://jekyllrb.com" version="3.6.2">Jekyll</generator>
+<link href="http://localhost:4000/reading/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://localhost:4000/reading/" rel="alternate" type="text/html" />
+<updated>2017-12-31T14:53:24-08:00</updated>
+<id>http://localhost:4000/reading/</id>
 <subtitle>I review books I listen to while waiting in traffic.
 </subtitle>
 <author>
@@ -12,11 +12,11 @@
 </author>
 <entry>
 <title>Annihilation, Jeff VanderMeer</title>
-<link href="http://benmccary.github.io/benreading.github.io/annihilation/" rel="alternate" type="text/html" title="Annihilation, Jeff VanderMeer" />
+<link href="http://localhost:4000/reading/annihilation/" rel="alternate" type="text/html" title="Annihilation, Jeff VanderMeer" />
 <published>2017-12-28T02:32:20-08:00</published>
 <updated>2017-12-28T02:32:20-08:00</updated>
-<id>http://benmccary.github.io/benreading.github.io/annihilation</id>
-<content type="html" xml:base="http://benmccary.github.io/benreading.github.io/annihilation/">&lt;h1 id=&quot;score-8&quot;&gt;Score: 8&lt;/h1&gt;
+<id>http://localhost:4000/reading/annihilation</id>
+<content type="html" xml:base="http://localhost:4000/reading/annihilation/">&lt;h1 id=&quot;score-8&quot;&gt;Score: 8&lt;/h1&gt;
 
 &lt;h2 id=&quot;spoilers-nope&quot;&gt;Spoilers? Nope.&lt;/h2&gt;
 
@@ -65,38 +65,49 @@
 </entry>
 <entry>
 <title>Three Body Problem, Liu Cixin</title>
-<link href="http://benmccary.github.io/benreading.github.io/three-body-problem/" rel="alternate" type="text/html" title="Three Body Problem, Liu Cixin" />
+<link href="http://localhost:4000/reading/three-body-problem/" rel="alternate" type="text/html" title="Three Body Problem, Liu Cixin" />
 <published>2017-12-19T02:32:20-08:00</published>
 <updated>2017-12-19T02:32:20-08:00</updated>
-<id>http://benmccary.github.io/benreading.github.io/three-body-problem</id>
-<content type="html" xml:base="http://benmccary.github.io/benreading.github.io/three-body-problem/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<id>http://localhost:4000/reading/three-body-problem</id>
+<content type="html" xml:base="http://localhost:4000/reading/three-body-problem/">&lt;h1 id=&quot;score-7&quot;&gt;Score 7&lt;/h1&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;h2 id=&quot;spoilers-minor-spoilers&quot;&gt;Spoilers? Minor spoilers&lt;/h2&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Three Body Problem was one of the weirder books I’ve read in a while, but it turned out to be a pretty good read. Three Body Problem is set in China and occurs mostly in the present day, though the back story stretches back to the Communist Revolution in the late 50’s and early 60’s. It begins with the story of a young girl whose Bourgeoisie parents and mentors are brutally tortured and killed in the Revolution, but she is able to escape to one of the last bastions of academic research: a military research facility in the Kunan mountains.  At the start of the book, this all seems to be the main thread of the story, but it turns out to simply be back story for the real, present day story.&lt;/p&gt;
 
-&lt;p&gt;{% highlight ruby %}
-def print_hi(name)
-  puts “Hi, #{name}”
-end
-print_hi(‘Tom’)
-#=&amp;gt; prints ‘Hi, Tom’ to STDOUT.
-{% endhighlight %}&lt;/p&gt;
+&lt;p&gt;This part of Three Body Problem follows Wang Miao, an applied physicist working with nano-technologies. Through a series of seemingly miraculous events, Wang is conscripted into a secret government taskforce investigating a secret society of academics called the Three Body Society. While on this taskforce he discovers that the society is actually part of an elaborate plot to invite a refugee alien force to come colonize and conquer Earth.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;As I was reading, I constantly found myself asking, “is this a cultural thing, or just a convenient shorthand for the plot?”  I still have no idea, but that was part of the fun for me.&lt;/p&gt;
+&lt;/blockquote&gt;
 
+&lt;p&gt;For one, it was a pretty slow start and in a location and culture that I know next to nothing about.  Another reason why it was so weird is that, toward the end, it tries to imagine a society that’s so vastly different than our own and a series of technologies so far fetched, that it was hard to wrap my head around it.  With all that said, the ultimate draw of the book for me was the utter strangeness of the plot, conflict, and characters.  I really enjoyed the book when everything was said and done, because it made me ask questions about Chinese culture, and also about the limits of physics and mathematics.&lt;/p&gt;
+
+&lt;p&gt;One of the main reasons why this book stuck with me is because I just didn’t get it.  I didn’t get how the characters could all be so disillusioned with humanity. I didn’t get why characters were so respectful of their elders - there’s a moment where the Wang Miao goes to visit the mother of a deceased woman who he never met but had a crush on. Her mother was totally fine with some stranger/stalker showing up at her door and they strike up a friendship. There is a level of trust for strangers or acquaintances that was just so foreign to me. As I was reading, I constantly found myself asking, “is this a cultural thing, or just a convenient shorthand for the plot?”  I still have no idea, but that was part of the fun for me.&lt;/p&gt;
+
+&lt;p&gt;I was also intrigued how this story handled fear of environmental disaster. So many of the books that I’ve read lately who deal with that do so in totally different ways: the Expanse series talks about policy changes and space colonization, Annihilation and other bio-punk books talk about the horrors of nature striking back, but this…the world’s elites just give up and ask aliens to wipe us all out?  That is just so different from how I would ever think of dealing with that conflict.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;{{site.baseurl}}/assets/img/three-body-math.png&quot; alt=&quot;Three Body&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another reason why I like this books - and I’m outing myself a bit hear - is that it deals with concepts from linear algebra.  I used to work as a pastor, but now I work as a data analyst (totally reasonable career pivot, huh?), and as such I’m needing to go back and revisit a lot of the math I neglected in my liberal arts degrees. As I was reading this, I was also working through some linear algebra textbooks. There is a part toward the end of the book where some of the characters take advantage of the multidimensional aspect of sub atomic particles as a weapon.  It is crazy, but as I was reading it, I was thinking through the different transformations that would need to happen to accomplish what the book talks about. It was fun to think, “would that actually be possible to apply pure mathematics to physical objects?” and “do current theories believe that subatomic particles are more than three dimensional?”&lt;/p&gt;
+
+&lt;p&gt;It’s not every day that a book makes me think of math, or that math makes me feel like I can relate to scifi better. Honestly, I’d probably have rated this story lower if I wasn’t literally doing linear algebra homework in between listening to the story.&lt;/p&gt;
+
+&lt;p&gt;The I rated this book as a 7 because, while it was a bit boring at the start, it was intriguing on so many levels.  I was facinated by reading something Chinese for the first time. I was facinated by the physics and math involved. I liked the characters, and by the time the story was done, I was really curious what would happen next. The characters were a bit hard for me to relate to, the conflict was coherent and complex but also a bit odd and sort of difficult to relate to.  I liked that aspect. I liked reading it and thinking, “why in the world would people act like this?”&lt;/p&gt;
+
+&lt;h3 id=&quot;recommendation-read-it-its-worth-your-time-particularly-if-you-like-reading-stories-that-stretch-your-perspective&quot;&gt;Recommendation: read it. It’s worth your time. Particularly if you like reading stories that stretch your perspective.&lt;/h3&gt;
 </content>
 <category term="scifi" />
 <category term="Liu Cixin" />
-<summary>You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary>
+<summary>Score 7</summary>
 </entry>
 <entry>
 <title>Stranger in a Strange Land, Robert Heinline</title>
-<link href="http://benmccary.github.io/benreading.github.io/stranger-in-a-strange-land/" rel="alternate" type="text/html" title="Stranger in a Strange Land, Robert Heinline" />
+<link href="http://localhost:4000/reading/stranger-in-a-strange-land/" rel="alternate" type="text/html" title="Stranger in a Strange Land, Robert Heinline" />
 <published>2017-12-03T02:32:20-08:00</published>
 <updated>2017-12-03T02:32:20-08:00</updated>
-<id>http://benmccary.github.io/benreading.github.io/stranger-in-a-strange-land</id>
-<content type="html" xml:base="http://benmccary.github.io/benreading.github.io/stranger-in-a-strange-land/">&lt;h1 id=&quot;score-6&quot;&gt;Score: 6&lt;/h1&gt;
+<id>http://localhost:4000/reading/stranger-in-a-strange-land</id>
+<content type="html" xml:base="http://localhost:4000/reading/stranger-in-a-strange-land/">&lt;h1 id=&quot;score-6&quot;&gt;Score: 6&lt;/h1&gt;
 
 &lt;h2 id=&quot;spoilers-yeah&quot;&gt;Spoilers? Yeah.&lt;/h2&gt;
 
@@ -145,11 +156,11 @@ print_hi(‘Tom’)
 </entry>
 <entry>
 <title>Waking Gods, Sylvain Neuvel</title>
-<link href="http://benmccary.github.io/benreading.github.io/waking-gods/" rel="alternate" type="text/html" title="Waking Gods, Sylvain Neuvel" />
+<link href="http://localhost:4000/reading/waking-gods/" rel="alternate" type="text/html" title="Waking Gods, Sylvain Neuvel" />
 <published>2017-11-17T02:32:20-08:00</published>
 <updated>2017-11-17T02:32:20-08:00</updated>
-<id>http://benmccary.github.io/benreading.github.io/waking-gods</id>
-<content type="html" xml:base="http://benmccary.github.io/benreading.github.io/waking-gods/">&lt;h1 id=&quot;score-5&quot;&gt;Score: 5&lt;/h1&gt;
+<id>http://localhost:4000/reading/waking-gods</id>
+<content type="html" xml:base="http://localhost:4000/reading/waking-gods/">&lt;h1 id=&quot;score-5&quot;&gt;Score: 5&lt;/h1&gt;
 
 &lt;h2 id=&quot;spoilers-why-not&quot;&gt;Spoilers: Why not?&lt;/h2&gt;
 
@@ -176,11 +187,11 @@ print_hi(‘Tom’)
 </entry>
 <entry>
 <title>Sleeping Giants, Sylvain Neuvel</title>
-<link href="http://benmccary.github.io/benreading.github.io/sleeping-giants/" rel="alternate" type="text/html" title="Sleeping Giants, Sylvain Neuvel" />
+<link href="http://localhost:4000/reading/sleeping-giants/" rel="alternate" type="text/html" title="Sleeping Giants, Sylvain Neuvel" />
 <published>2017-11-02T03:32:20-07:00</published>
 <updated>2017-11-02T03:32:20-07:00</updated>
-<id>http://benmccary.github.io/benreading.github.io/sleeping-giants</id>
-<content type="html" xml:base="http://benmccary.github.io/benreading.github.io/sleeping-giants/">&lt;h1 id=&quot;score-5&quot;&gt;Score: 5&lt;/h1&gt;
+<id>http://localhost:4000/reading/sleeping-giants</id>
+<content type="html" xml:base="http://localhost:4000/reading/sleeping-giants/">&lt;h1 id=&quot;score-5&quot;&gt;Score: 5&lt;/h1&gt;
 
 &lt;h2 id=&quot;spoilers-yeah&quot;&gt;Spoilers? Yeah.&lt;/h2&gt;
 </content>
@@ -191,11 +202,11 @@ print_hi(‘Tom’)
 </entry>
 <entry>
 <title>Saturn Run, John Sandford</title>
-<link href="http://benmccary.github.io/benreading.github.io/placeholder2/" rel="alternate" type="text/html" title="Saturn Run, John Sandford" />
+<link href="http://localhost:4000/reading/placeholder2/" rel="alternate" type="text/html" title="Saturn Run, John Sandford" />
 <published>2017-10-20T03:32:20-07:00</published>
 <updated>2017-10-20T03:32:20-07:00</updated>
-<id>http://benmccary.github.io/benreading.github.io/placeholder2</id>
-<content type="html" xml:base="http://benmccary.github.io/benreading.github.io/placeholder2/">&lt;h1 id=&quot;score-6&quot;&gt;Score: 6&lt;/h1&gt;
+<id>http://localhost:4000/reading/placeholder2</id>
+<content type="html" xml:base="http://localhost:4000/reading/placeholder2/">&lt;h1 id=&quot;score-6&quot;&gt;Score: 6&lt;/h1&gt;
 
 &lt;h2 id=&quot;spoilers-not-really&quot;&gt;Spoilers? Not really.&lt;/h2&gt;
 </content>
