@@ -12,6 +12,9 @@ author: Ben McCary # Add name author (optional)
 
 ## Spoilers? Minor spoilers
 
+#### Be sure to check out my [Scoring Scale]({{site.baseurl}}/scoring-scale) to see what the score means.
+
+
 Three Body Problem was one of the weirder books I've read in a while, but it turned out to be a pretty good read. Three Body Problem is set in China and occurs mostly in the present day, though the back story stretches back to the Communist Revolution in the late 50's and early 60's. It begins with the story of a young girl whose Bourgeoisie parents and mentors are brutally tortured and killed in the Revolution, but she is able to escape to one of the last bastions of academic research: a military research facility in a remote mountain range.  At the start of the book, this all seems to be the main thread of the story, but it turns out to simply be back story for the real, present day story.
 
 This part of Three Body Problem follows Wang Miao, an applied physicist working with nano-technologies. Through a series of seemingly miraculous events, Wang is conscripted into a secret government task-force investigating a secret society of academics called the Three Body Society. While on this task-force he discovers that the society is actually part of an elaborate plot to invite a refugee alien force to come colonize and conquer Earth.

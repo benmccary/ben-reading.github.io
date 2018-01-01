@@ -3,7 +3,7 @@
     {
       "title"    : "Annihilation, Jeff VanderMeer",
       "category" : "",
-      "tags"     : "Scifi, Biopunk",
+      "tags"     : "Scifi, Biopunk, Jeff VanderMeer, Score 8",
       "url"      : "/reading/annihilation/",
       "date"     : "2017-12-28 02:32:20 -0800"
     } ,
@@ -11,7 +11,7 @@
     {
       "title"    : "Three Body Problem, Liu Cixin",
       "category" : "",
-      "tags"     : "scifi, Liu Cixin",
+      "tags"     : "scifi, Liu Cixin, Score 6",
       "url"      : "/reading/three-body-problem/",
       "date"     : "2017-12-19 02:32:20 -0800"
     } ,
@@ -19,7 +19,7 @@
     {
       "title"    : "Stranger in a Strange Land, Robert Heinline",
       "category" : "",
-      "tags"     : "scifi, Robert Heinline",
+      "tags"     : "scifi, Robert Heinline, Score 5",
       "url"      : "/reading/stranger-in-a-strange-land/",
       "date"     : "2017-12-03 02:32:20 -0800"
     } ,
@@ -27,7 +27,7 @@
     {
       "title"    : "Waking Gods, Sylvain Neuvel",
       "category" : "",
-      "tags"     : "scifi, Sylvain Neuvel",
+      "tags"     : "scifi, Sylvain Neuvel, Score 4, giant robots",
       "url"      : "/reading/waking-gods/",
       "date"     : "2017-11-17 02:32:20 -0800"
     } ,
@@ -35,7 +35,7 @@
     {
       "title"    : "Sleeping Giants, Sylvain Neuvel",
       "category" : "",
-      "tags"     : "scifi, Sylvain Neuvel, giant robots",
+      "tags"     : "scifi, Sylvain Neuvel, giant robots, Score 4",
       "url"      : "/reading/sleeping-giants/",
       "date"     : "2017-11-02 03:32:20 -0700"
     } ,
@@ -44,7 +44,7 @@
       "title"    : "Saturn Run, John Sandford",
       "category" : "",
       "tags"     : "scifi, John Sandford, realistic, space travel",
-      "url"      : "/reading/placeholder2/",
+      "url"      : "/reading/saturn-run/",
       "date"     : "2017-10-20 03:32:20 -0700"
     } 
   

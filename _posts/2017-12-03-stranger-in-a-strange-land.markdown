@@ -14,6 +14,9 @@ author: Ben McCary # Add name author (optional)
 
 ### (but the book is 56 years old, so who cares)
 
+#### Be sure to check out my [Scoring Scale]({{site.baseurl}}/scoring-scale) to see what the score means.
+
+
 Heinline is a legend. No one could take that from him, and I'm just a guy who listens to (scifi) books in my car, so he wins.  With that said, I didn't really like this book.  One of the important things to remember is that my rating is subjective - really subjective.  I'm basically just putting my reactions out there, and this book didn't do much for me.  The only reason why it was worth reading was to get a glimpse of what people were thinking in the late 50's early 60's.  And for that, it was fascinating. For one thing, that time period is a bit of a no-man's land for me. I'm not huge into American history, so I know WWII was going on in the early 40's, and the mid-late 60's was all about hippies and Civil Rights. But between those? I guess that's where you get Heinline.
 
 For that, there are some things that you just have to choose to stomach if you want to read this book. For one, it's hopelessly sexist. As I was first reading it, I though, "Oh, Jill has a bit of spine, that's good to see." But as I read on, I realized that as soon as the plot was ready to make a man the main protagonist, Jill (and every other woman in the story) took a back seat as spunky, perky ornamentation for the scenes while the men did the talking. The sexism was rampant as far as only valuing the women for their physical features, but it was most upsetting that whenever the men were talking, the women just weren't interested. They had no need for silly things like ideas.
