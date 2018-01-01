@@ -2,7 +2,7 @@
 layout: post
 title:  Stranger in a Strange Land, Robert Heinline
 date:   2017-12-03 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: I guess you could read it. I'd hate to meet someone under the age of 60 who actually likes it though. # Add post description (optional)
 img: post-3.png # Add image post (optional)
 tags: [scifi, Robert Heinline, Score 5]
 author: Ben McCary # Add name author (optional)

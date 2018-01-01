@@ -2,7 +2,7 @@
 layout: post
 title:  Three Body Problem, Liu Cixin
 date:   2017-12-19 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: As I was reading, I constantly found myself asking, "is this a cultural thing, or just a convenient shorthand for the plot?"  I still have no idea, but that was part of the fun for me. # Add post description (optional)
 img: post-2.jpg # Add image post (optional)
 tags: [scifi, Liu Cixin, Score 6]
 author: Ben McCary # Add name author (optional)

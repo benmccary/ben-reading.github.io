@@ -2,7 +2,7 @@
 layout: post
 title:  Annihilation, Jeff VanderMeer
 date:   2017-12-28 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: It's clear that VanderMeer is painting a picture that's meant to terrify. Human civilization is gone and past, though no one realizes it yet. Nature is alive and vital, though through a weird decay and transformation that leaves everything changed. # Add post description (optional)
 img: post-1.jpg # Add image post (optional)
 tags: [Scifi, Biopunk, Jeff VanderMeer, Score 8]
 author: Ben McCary # Add name author (optional)

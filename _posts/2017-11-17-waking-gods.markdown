@@ -17,7 +17,7 @@ author: Ben McCary # Add name author (optional)
 
 Waking Gods picks up pretty much where the prior book leaves off: giant robot needs to be reassembled, secret society put together to do the job, same cast of characters now just learning to use the machine.  The book was garbage and I regret reading it.  If you want to see why, just go read my take on [Sleeping Giants]({{site.baseurl}}{% post_url 2017-11-02-sleeping-giants %}).
 
-I'll say this: some characters find out they had a kid whose really creepy. There's more Pacific Rim ripoffs. The book ends with another out-of-nowhere twist that makes you go, "maybe the next one will be better than the last two."  If I ever find out, it's because the commute is really getting to me and I'm desperate.  
+I'll say this: some characters find out they had a kid who's really creepy. There's more Pacific Rim ripoffs. The book ends with another out-of-nowhere twist that makes you go, "maybe the next one will be better than the last two."  If I ever find out, it's because the commute is really getting to me and I'm desperate.  
 
 So, no real review. I regret wasting my life listening to it, I don't want to regret wasting my life writing a review.
 
