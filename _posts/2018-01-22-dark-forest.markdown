@@ -3,7 +3,7 @@ layout: post
 title:  The Dark Forest, Liu Cixin
 date:   2018-01-22 13:32:20 +0300
 description: This book is weird, and hard for me to wrap my head around. Not so much for the science fiction, but for the culture of the characters. It wasn't time wasted though.
-img: post-1.jpg # Add image post (optional)
+img: dark-forest.jpg # Add image post (optional)
 tags: [Scifi, Aliens, Space Travel, Liu Cixin, Score 6]
 author: Ben McCary # Add name author (optional)
 ---
